@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author":
-    "Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)",
+    "Sergio Hernandez",
   "license": "MIT",
   "dependencies": {
     "body-parser": "1.18.2",
